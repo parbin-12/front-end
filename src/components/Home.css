@@ -1,0 +1,285 @@
+.App {
+  height: 100%;
+  width: 100%;
+}
+
+.hash {
+  background: #d85103;
+  color: white;
+  margin-top: 20px;
+}
+.rest {
+  color: #d85103;
+}
+.more {
+  color: #d85103;
+  font-size: 25px;
+}
+.food {
+  
+  border-radius: 9px;
+  background: green;
+  color: white;
+  
+}
+.photo-container {
+  /* width: 622px;
+    height: 434px;*/
+  margin-top: -90%;
+  overflow: hidden;
+  width: 600px; /* Adjust width as needed */
+  height: 400px;
+  margin-left: 600px;
+  z-index: 1;
+ position: relative;
+}
+.para {
+  margin-left: 200px;
+  margin-top: 200px;
+}
+.food:hover {
+  background: black;
+}
+.orange {
+  margin-top:-40%;
+  overflow: hidden;
+  width: 400px; /* Adjust width as needed */
+  height: 600px;
+  margin-left: 800px;
+ 
+}
+.done {
+  height: 500px;
+  margin-left: 200px;
+  transition: transform 0.5s ease;
+  margin-top: -400px;
+}
+.done:hover {
+  transform: translateY(-20px);
+}
+.reason {
+  margin-left: 700px;
+  margin-top: 200px;
+  font-size: 30px;
+  margin-left: 620px;
+}
+.why {
+  margin-left: 700px;
+  margin-left: 620px;
+  font: proxima-nova;
+  background: darkgoldenrod;
+  padding: 12px;
+  border-radius: 10px;
+  font-style: italic;
+}
+.About {
+  width: 1300px;
+}
+.down {
+  padding: 12px;
+  margin-left: 100px;
+  background: green;
+  color: white;
+  border-radius: 9px;
+}
+.down:hover {
+  color: red;
+  background: #000;
+}
+.recip {
+  text-align: center;
+  font: proxima-nova;
+}
+.most {
+  color: #d85103;
+}
+.buton-box {
+  text-align: center;
+}
+.one {
+  margin: 25px;
+  padding: 10px;
+  background: white;
+  color: #000;
+  border-radius: 12px;
+  background: green;
+}
+.two {
+  margin: 25px;
+  padding: 10px;
+  background: white;
+  color: #000;
+  border-radius: 12px;
+}
+.three {
+  margin: 25px;
+  padding: 10px;
+  background: white;
+  color: #000;
+  border-radius: 12px;
+}
+.one:hover {
+  background: green;
+}
+.two:hover {
+  background: green;
+}
+.three:hover {
+  background: green;
+}
+.menu {
+  text-align: center;
+  display: flex;
+  margin-left: 300px;
+}
+.buff {
+  margin: 8px;
+}
+.samosa {
+  margin: 8px;
+}
+.cilli {
+  margin: 8px;
+}
+.popular {
+  margin-top:60px;
+}
+
+.color {
+  color: #d85103;
+}
+.menu-btn {
+  text-align: center;
+  padding: 9px;
+  background: green;
+  border-radius: 8px;
+  margin-left: 700px;
+}
+.menu-btn:hover {
+  background: #000;
+  color: #d85103;
+}
+.video {
+  margin-top: 20px;
+  filter: brightness(0.88);
+}
+.process {
+  margin-top: -30%;
+  margin-left: 400px;
+  font-size: 35px;
+  color: aliceblue;
+}
+.love {
+  color: yellow;
+}
+.watch {
+  padding: 10px 14px 18px;
+  border-radius: 10px 12px;
+  text-align: center;
+  margin-left: 700px;
+  background: red;
+  color: white;
+}
+.quality-food {
+  
+  margin-top: 8%;
+  text-align: center;
+  margin-left:100px;
+  display:flex;
+
+}
+.glass{
+    border-radius: 20px;
+}
+.expo{
+    padding:10px;
+    text-align: center;
+    border-radius: 9px;
+    background:green;
+    margin-left: 700px;
+    color:white;
+}
+.expo:hover{
+    background: #000;
+}
+.happy{
+    margin-left: 900px;
+    margin-top: 70px;
+    display: flex;
+    height:500px;
+    width:100px;
+}
+.plus{
+    height:100px;
+    width:500px;
+    margin-top: -25%;
+    margin-left: 100px;
+}
+.go{
+    color:green;
+}
+h4{
+    font-style: italic;
+}
+.comment{
+    font-style: italic;
+    background: #d9b1b1;
+    color:aliceblue;
+    padding: 12px;
+    border-radius:10px 12px;
+}
+.left{
+font-size: 40px;
+color:red;
+}
+.left:hover{
+   color:#0C6967;
+}
+.right:hover{
+    color:#0C6967;
+ }
+.right{
+font-size: 40px;
+color:aqua;
+}
+.sand{
+    margin-top:400px;
+    text-align: center;
+}
+.add{
+    background: #0C6967;
+    height:500px;
+    width:200px;
+    margin-left: 90px;
+    border-radius: 10px;
+    padding: 32px;
+    margin-top:50px;
+    color:white;
+}
+.sit{
+    width:200px;
+}
+.media{
+    margin-top: 10px;
+}
+.map{
+  margin-top: 30px;
+  height: 100px;
+}
+.map-loc{
+  margin-left: 800px;
+  margin-top: 200px;
+  color: red;
+  font-size: 20px;
+}
+.maddy{
+  padding:10px;
+ background:rgb(14, 6, 6);
+ padding:9px;
+}
+.frm-btn{
+  margin-top:30px;
+  padding: 10px;
+  border-radius: 12px;
+  text-align: center;
+}

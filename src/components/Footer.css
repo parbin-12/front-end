@@ -1,0 +1,48 @@
+.down-dis{
+    background:white;
+    width:100%;
+    height: 200px;
+    margin-top: 40%;
+    color:grey;
+}
+.momo-fot{
+margin-top: -13%;
+margin-left: 600px;
+width:200px;
+height:200px;
+color:grey;
+text-align: center;
+}
+.jpt{
+    
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+    
+}
+.el{
+    color:black;
+}
+.legal{
+    margin-top: -15%;
+margin-left: 900px;
+width:200px;
+height:200px;
+text-align: center;
+color:grey;
+}
+.legy{
+    display:flex;
+    flex-direction: column;
+    gap: 2px;
+    
+}
+.follow{
+    margin-left:85%;
+    margin-top: -15%;
+    color:grey;
+}
+.po{
+    color: #0C6967;
+
+}

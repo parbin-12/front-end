@@ -1,0 +1,10 @@
+form{
+   height:400px;
+   width:200px;
+   margin-left:700px;
+  margin-top: -30%;
+  background: red;
+  display: block;
+  padding: 10px;
+  border-radius: 10px;
+} 

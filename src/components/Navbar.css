@@ -1,0 +1,66 @@
+
+.header {
+        background-color:rgb(201, 197, 197);
+       
+border-radius: 10px;
+      display: flex;
+    padding: 5px;
+       
+z-index:1;
+      }
+     
+
+ul {
+    list-style: none;
+    display: flex;
+    gap:40px;
+ 
+  }
+  li {
+    margin-right: 20px;
+    text-align: center;
+    font-size:25px;
+
+  }
+  
+  a {
+    text-decoration: none;
+    color:white;
+    font-weight:25px;
+    font:sans serif;
+
+    padding: 8px;
+    border-radius: 9px;
+    text-align: center;
+  }
+  a:hover{
+    color:orangered;
+  }
+.click{
+background:#d85103;
+color:aliceblue;
+display: flex;
+padding:8px;
+border-radius: 12px;
+justify-content: center;
+align-items: center;
+}
+.momo{
+border-radius: 4px 4px  solid;
+margin-left:60px;
+}
+.social-media{
+    
+    font-size: 20px;
+    gap:15px;
+    text-align: center;
+    display:flex;
+    padding: 8px;
+    border-radius: 9px;
+    background:#0C6967;
+}
+.click:hover{
+    background:green;
+}
+ 
+
